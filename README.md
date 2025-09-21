@@ -1,9 +1,8 @@
 <h1>Hi, I'm Emmah Waithera Kirori! <br/>
 <a href="https://github.com/Emmah-KW">Programmer</a>, 
-<a href="https://www.linkedin.com/in/joshmadakor/">Virtual Assistant </a>,
+<a href="https://www.linkedin.com/in/emmahwaithera/">Virtual Assistant </a>
   
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
